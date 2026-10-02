@@ -1,2 +1,4 @@
 Hello, Git!
 This is my Software Engineering Lab 02.
+
+I am learning Git and GitHub version control.
